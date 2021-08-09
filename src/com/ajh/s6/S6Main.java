@@ -31,9 +31,9 @@ public class S6Main {
 		ajh.setMoney(5000000);
 		ajh.setPoint(10);
 
-		ajh.buy(tv);
-		System.out.println(ajh.getMoney());
-		System.out.println(ajh.getPoint());
+//		ajh.buy(tv);
+//		System.out.println(ajh.getMoney());
+//		System.out.println(ajh.getPoint());
 
 		Electric[] electrics = new Electric[2];
 		electrics[0] = tv;

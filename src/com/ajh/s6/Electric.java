@@ -1,6 +1,6 @@
 package com.ajh.s6;
 
-public abstract class Electric {
+public abstract class Electric extends Object {
 
 	private String brand;
 	private String color;
